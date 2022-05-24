@@ -1,8 +1,12 @@
 # 💫About Me :
 I'm currently working on my personal website
+
 I'm currently learning about lots of things, React Native, Unix commands, Javascript and more!
+
 I'm looking to work on any interesting projects
+
 Ask me about career path in Tech or any other Tech-related stuff (or gaming)
+
 Fun fact: I found my first Tech job from a gamer friend that I never met.
 
 ## 🌐Socials
