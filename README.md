@@ -1,7 +1,7 @@
 # 💫About Me :
 I'm currently working on my personal website
 
-I'm currently learning about lots of things, React Native, Unix commands, Javascript and more!
+I'm currently learning about lots of things, React Native, React, NextJS, Angular, Unix commands, Javascript and more!
 
 I'm looking to work on any interesting projects
 
